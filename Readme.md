@@ -1,8 +1,9 @@
-## Collaborative Code Editor System Design.
-![image](https://github.com/user-attachments/assets/95fb8a09-ae3d-4fe4-badc-0e85e72ef618)
 
 ## Nodee
 The system was built and refined locally, then pushed as a single consolidated commit after implementation and testing.
+
+## Collaborative Code Editor System Design.
+![image](https://github.com/user-attachments/assets/95fb8a09-ae3d-4fe4-badc-0e85e72ef618)
 
 ## Code Compilation System Design.
 ![image](https://github.com/user-attachments/assets/830b079a-b63b-4762-b63c-eaff53f1950f)
