@@ -125,6 +125,6 @@ function getDockerImage(language: string) {
     }
 }
 
-server.listen(5000, '0.0.0.0', () => {
+server.listen(5002, '0.0.0.0', () => {
     console.log("WebSocket server started on port 5000");
 });
